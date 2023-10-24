@@ -1,0 +1,275 @@
+﻿@model WebMVC.Models.Cliente
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="header m-0">
+        <h2 class="titulo">Cliente</h2>
+        <a href="@Url.Action("Index", "Home")" class="btn-voltar">Voltar</a>
+    </div>
+    @Html.HiddenFor(model => model.Id)
+    <div class="row row-inputs m-0">
+        <div style="flex: 1; width: 10%;">
+            @Html.LabelFor(model => model.CPF, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.CPF, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.CPF, "", new { @class = "text-danger" })
+        </div>
+        <div style="flex: 4; width: 80%;">
+            @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="row row-inputs m-0">
+        <div style="flex: 1.5; width: 25%;">
+            @Html.LabelFor(model => model.RG, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.RG, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.RG, "", new { @class = "text-danger" })
+        </div>
+
+        <div style="flex: 0.8; width: 10%;">
+            @Html.LabelFor(model => model.DataExpedicao, "Data de expedicao", htmlAttributes: new { @class = "control-label" })
+            @Html.TextBoxFor(model => model.DataExpedicao, "{0:dd/MM/yyyy}", new { @class = "form-control date-mask", placeholder = "dd/mm/aaaa" })
+            @Html.ValidationMessageFor(model => model.DataExpedicao, "", new { @class = "text-danger" })
+        </div>
+
+        <div style="flex: 1.2; width: 40%;">
+            @Html.LabelFor(model => model.OrgaoExpedicao, "Órgão expeditor", htmlAttributes: new { @class = "control-label" })
+            <select class="form-control" id="OrgaoExpedicao" name="OrgaoExpedicao">
+                <option value="">Selecione um orgão expeditor</option>
+                <option value="AC" @(Model.OrgaoExpedicao == "AC" ? "selected" : "")>SSP/AC</option>
+                <option value="AL" @(Model.OrgaoExpedicao == "AL" ? "selected" : "")>SSP/AL</option>
+                <option value="AP" @(Model.OrgaoExpedicao == "AP" ? "selected" : "")>SSP/AP</option>
+                <option value="AM" @(Model.OrgaoExpedicao == "AM" ? "selected" : "")>SSP/AM</option>
+                <option value="BA" @(Model.OrgaoExpedicao == "BA" ? "selected" : "")>SSP/BA</option>
+                <option value="CE" @(Model.OrgaoExpedicao == "CE" ? "selected" : "")>SSPDS/CE</option>
+                <option value="DF" @(Model.OrgaoExpedicao == "DF" ? "selected" : "")>SSP/DF</option>
+                <option value="ES" @(Model.OrgaoExpedicao == "ES" ? "selected" : "")>SESP/ES</option>
+                <option value="GO" @(Model.OrgaoExpedicao == "GO" ? "selected" : "")>SSP/GO</option>
+                <option value="MA" @(Model.OrgaoExpedicao == "MA" ? "selected" : "")>SSP/MA</option>
+                <option value="MT" @(Model.OrgaoExpedicao == "MT" ? "selected" : "")>SSP/MT</option>
+                <option value="MS" @(Model.OrgaoExpedicao == "MS" ? "selected" : "")>SSP/MS</option>
+                <option value="MG" @(Model.OrgaoExpedicao == "MG" ? "selected" : "")>SSP/MG</option>
+                <option value="PA" @(Model.OrgaoExpedicao == "PA" ? "selected" : "")>SSP/PA</option>
+                <option value="PB" @(Model.OrgaoExpedicao == "PB" ? "selected" : "")>SSP/PB</option>
+                <option value="PR" @(Model.OrgaoExpedicao == "PR" ? "selected" : "")>SSP/PR</option>
+                <option value="PE" @(Model.OrgaoExpedicao == "PE" ? "selected" : "")>SSP/PE</option>
+                <option value="PI" @(Model.OrgaoExpedicao == "PI" ? "selected" : "")>SSP/PI</option>
+                <option value="RJ" @(Model.OrgaoExpedicao == "RJ" ? "selected" : "")>SSP/RJ</option>
+                <option value="RN" @(Model.OrgaoExpedicao == "RN" ? "selected" : "")>SESED/RN</option>
+                <option value="RS" @(Model.OrgaoExpedicao == "RS" ? "selected" : "")>SSP/RS</option>
+                <option value="RO" @(Model.OrgaoExpedicao == "RO" ? "selected" : "")>SESDEC/RO</option>
+                <option value="RR" @(Model.OrgaoExpedicao == "RR" ? "selected" : "")>SESP/RR</option>
+                <option value="SC" @(Model.OrgaoExpedicao == "SC" ? "selected" : "")>SSP/SC</option>
+                <option value="SP" @(Model.OrgaoExpedicao == "SP" ? "selected" : "")>SSP/SP</option>
+                <option value="SE" @(Model.OrgaoExpedicao == "SE" ? "selected" : "")>SSP/SE</option>
+                <option value="TO" @(Model.OrgaoExpedicao == "TO" ? "selected" : "")>SSP/TO</option>
+            </select>
+            @Html.ValidationMessageFor(model => model.OrgaoExpedicao, "", new { @class = "text-danger" })
+        </div>
+        <div style="flex: 0.8; width: 10%;">
+            @Html.LabelFor(model => model.UfExpedicao, "UF Expedição", htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.UfExpedicao, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.UfExpedicao, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="row row-inputs m-0">
+        <div style="flex: 0.3; width: 10%;">
+            @Html.LabelFor(model => model.DataNascimento, "Data de nascimento", htmlAttributes: new { @class = "control-label" })
+            @Html.TextBoxFor(model => model.DataNascimento, "{0:dd/MM/yyyy}", new { @class = "form-control date-mask", placeholder = "dd/mm/aaaa" })
+            @Html.ValidationMessageFor(model => model.DataNascimento, "", new { @class = "text-danger" })
+        </div>
+        <div style="flex: 0.3; width: 10%;">
+            @Html.LabelFor(model => model.Sexo, htmlAttributes: new { @class = "control-label" })
+            <select class="form-control" id="Sexo" name="Sexo">
+                <option value="">Selecione o Sexo</option>
+                <option value="Masculino" @(Model.Sexo == "Masculino" ? "selected" : "")>Masculino</option>
+                <option value="Feminino" @(Model.Sexo == "Feminino" ? "selected" : "")>Feminino</option>
+                <option value="Outro" @(Model.Sexo == "Outro" ? "selected" : "")>Outro</option>
+            </select>
+            @Html.ValidationMessageFor(model => model.Sexo, "", new { @class = "text-danger" })
+        </div>
+        <div style="flex: 1; width: 10%;">
+            @Html.LabelFor(model => model.EstadoCivil, "Estado civil", htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.EstadoCivil, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.EstadoCivil, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <h2 class="titulo">Endereço do Cliente</h2>
+    <div class="row row-inputs m-0">
+        <div style="flex: 1; width: 90%;">
+            @Html.LabelFor(model => model.endereco.CEP, htmlAttributes: new { @class = "control-label " })
+            <div class="input-group m-0 p-0">
+                @Html.EditorFor(model => model.endereco.CEP, new { htmlAttributes = new { @class = "form-control m-0", id = "cep" } })
+                <span class="input-group-text align-items-center"><i class="fa fa-search" id="buscaCep"></i></span>
+            </div>
+            @Html.ValidationMessageFor(model => model.endereco.CEP, "", new { @class = "text-danger" })
+        </div>
+
+        <div style="flex: 1; width: 10%;">
+            @Html.LabelFor(model => model.endereco.Logradouro, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.endereco.Logradouro, new { htmlAttributes = new { @class = "form-control", id = "logradouro" } })
+            @Html.ValidationMessageFor(model => model.endereco.Logradouro, "", new { @class = "text-danger" })
+        </div>
+        <div style="flex: 1; width: 10%;">
+            @Html.LabelFor(model => model.endereco.Numero, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.endereco.Numero, new { htmlAttributes = new { @class = "form-control", id = "numero" } })
+            @Html.ValidationMessageFor(model => model.endereco.Numero, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="row row-inputs m-0">
+        <div style="flex: 1; width: 10%;">
+            @Html.LabelFor(model => model.endereco.Complemento, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.endereco.Complemento, new { htmlAttributes = new { @class = "form-control", id = "complemento" } })
+            @Html.ValidationMessageFor(model => model.endereco.Complemento, "", new { @class = "text-danger" })
+        </div>
+        <div style="flex: 1; width: 10%;">
+            @Html.LabelFor(model => model.endereco.Bairro, htmlAttributes: new { @class = "control-label" })
+            @Html.EditorFor(model => model.endereco.Bairro, new { htmlAttributes = new { @class = "form-control", id = "bairro" } })
+            @Html.ValidationMessageFor(model => model.endereco.Bairro, "", new { @class = "text-danger" })
+        </div>
+        <div style="flex: 1; width: 10%;">
+            @Html.LabelFor(model => model.endereco.Cidade, htmlAttributes: new { @class = "control-label" })
+            <select class="form-control" id="cidade-select" name="endereco.Cidade">
+                <option value="">Selecione uma cidade</option>
+            </select>
+            <input type="text" class="form-control" id="cidade-text" style="display: none;" name="endereco.Cidade" />
+            @Html.ValidationMessageFor(model => model.endereco.Cidade, "", new { @class = "text-danger" })
+        </div>
+        <div style="flex: 1; width: 10%;">
+            @Html.LabelFor(model => model.endereco.UF, htmlAttributes: new { @class = "control-label" })
+            <select class="form-control" id="uf" name="endereco.UF">
+                <option value="">Selecione um estado</option>
+                <option value="AC" @(Model.endereco.UF == "AC" ? "selected" : "")>Acre</option>
+                <option value="AL" @(Model.endereco.UF == "AL" ? "selected" : "")>Alagoas</option>
+                <option value="AP" @(Model.endereco.UF == "AP" ? "selected" : "")>Amapá</option>
+                <option value="AM" @(Model.endereco.UF == "AM" ? "selected" : "")>Amazonas</option>
+                <option value="BA" @(Model.endereco.UF == "BA" ? "selected" : "")>Bahia</option>
+                <option value="CE" @(Model.endereco.UF == "CE" ? "selected" : "")>Ceará</option>
+                <option value="DF" @(Model.endereco.UF == "DF" ? "selected" : "")>Distrito Federal</option>
+                <option value="ES" @(Model.endereco.UF == "ES" ? "selected" : "")>Espírito Santo</option>
+                <option value="GO" @(Model.endereco.UF == "GO" ? "selected" : "")>Goiás</option>
+                <option value="MA" @(Model.endereco.UF == "MA" ? "selected" : "")>Maranhão</option>
+                <option value="MT" @(Model.endereco.UF == "MT" ? "selected" : "")>Mato Grosso</option>
+                <option value="MS" @(Model.endereco.UF == "MS" ? "selected" : "")>Mato Grosso do Sul</option>
+                <option value="MG" @(Model.endereco.UF == "MG" ? "selected" : "")>Minas Gerais</option>
+                <option value="PA" @(Model.endereco.UF == "PA" ? "selected" : "")>Pará</option>
+                <option value="PB" @(Model.endereco.UF == "PB" ? "selected" : "")>Paraíba</option>
+                <option value="PR" @(Model.endereco.UF == "PR" ? "selected" : "")>Paraná</option>
+                <option value="PE" @(Model.endereco.UF == "PE" ? "selected" : "")>Pernambuco</option>
+                <option value="PI" @(Model.endereco.UF == "PI" ? "selected" : "")>Piauí</option>
+                <option value="RJ" @(Model.endereco.UF == "RJ" ? "selected" : "")>Rio de Janeiro</option>
+                <option value="RN" @(Model.endereco.UF == "RN" ? "selected" : "")>Rio Grande do Norte</option>
+                <option value="RS" @(Model.endereco.UF == "RS" ? "selected" : "")>Rio Grande do Sul</option>
+                <option value="RO" @(Model.endereco.UF == "RO" ? "selected" : "")>Rondônia</option>
+                <option value="RR" @(Model.endereco.UF == "RR" ? "selected" : "")>Roraima</option>
+                <option value="SC" @(Model.endereco.UF == "SC" ? "selected" : "")>Santa Catarina</option>
+                <option value="SP" @(Model.endereco.UF == "SP" ? "selected" : "")>São Paulo</option>
+                <option value="SE" @(Model.endereco.UF == "SE" ? "selected" : "")>Sergipe</option>
+                <option value="TO" @(Model.endereco.UF == "TO" ? "selected" : "")>Tocantins</option>
+            </select>
+            @Html.ValidationMessageFor(model => model.endereco.UF, "", new { @class = "text-danger" })
+        </div>
+
+    </div>
+
+    <div class="btn-container">
+        <button class="btn-avancar" type="submit" id="btnCreateCliente">
+            Avançar
+        </button>
+
+
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var searchIcon = document.getElementById("buscaCep");
+            var ufSelect = document.getElementById("uf");
+            var cidadeSelect = document.getElementById("cidade-select");
+            var cidadeText = document.getElementById("cidade-text");
+
+            // Adicione um evento de alteração manual no campo UF
+            ufSelect.addEventListener("change", function () {
+                if (this.value) {
+                    // Se UF foi selecionado manualmente, carregar as cidades no select
+                    cidadeText.style.display = "none";
+                    cidadeSelect.style.display = "block";
+                    carregarCidades();
+                }
+            });
+
+            searchIcon.addEventListener("click", function () {
+                var cep = document.getElementById("cep").value;
+
+                cep = cep.replace('-', '');
+
+                var cepRegex = /^\d{8}$|^\d{5}\d{3}$/;
+                if (!cepRegex.test(cep)) {
+                    console.log("CEP inválido");
+                    return;
+                }
+
+                fetch('https://viacep.com.br/ws/' + cep + '/json/')
+                    .then(function (response) {
+                        return response.json();
+                    })
+                    .then(function (data) {
+                        document.getElementById("logradouro").value = data.logradouro || '';
+                        document.getElementById("numero").value = data.numero || '';
+                        document.getElementById("complemento").value = data.complemento || '';
+                        document.getElementById("bairro").value = data.bairro || '';
+                        document.getElementById("uf").value = data.uf || '';
+
+                        // Preencher o campo de texto da cidade e esconder o campo de seleção
+                        cidadeText.value = data.localidade || '';
+                        cidadeText.style.display = "block";
+                        cidadeSelect.style.display = "none";
+                    })
+                    .catch(function (error) {
+                        console.log("Ocorreu um erro: " + error);
+                    });
+            });
+
+            // Quando o texto no campo de texto da cidade é apagado, carregar as cidades no select
+            cidadeText.addEventListener("input", function () {
+                if (cidadeText.value === "") {
+                    cidadeText.style.display = "none";
+                    cidadeSelect.style.display = "block";
+                    carregarCidades();
+                }
+            });
+
+            // Função para carregar as cidades no select
+            function carregarCidades() {
+                var uf = ufSelect.value;
+                cidadeSelect.innerHTML = '<option value="">Carregando...</option>';
+
+                if (uf) {
+                    var xhr = new XMLHttpRequest();
+                    xhr.open('GET', 'https://servicodados.ibge.gov.br/api/v1/localidades/estados/' + uf + '/municipios', true);
+                    xhr.onreadystatechange = function () {
+                        if (xhr.readyState === 4 && xhr.status === 200) {
+                            var data = JSON.parse(xhr.responseText);
+                            cidadeSelect.innerHTML = '<option value="">Selecione uma cidade</option>';
+                            data.forEach(function (cidade) {
+                                var option = document.createElement('option');
+                                option.value = cidade.nome;
+                                option.textContent = cidade.nome;
+                                cidadeSelect.appendChild(option);
+                            });
+                        } else if (xhr.readyState === 4) {
+                            cidadeSelect.innerHTML = '<option value="">Erro ao buscar cidades</option>';
+                        }
+                    };
+                    xhr.send();
+                } else {
+                    cidadeSelect.innerHTML = '<option value="">Selecione um estado primeiro</option>';
+                }
+            }
+        });
+    </script>
+}

@@ -1,0 +1,85 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <div class="header m-0">
+        <h2>Clientes</h2>
+        <button class="btn-novo" id="novoCliente">
+            Novo Cliente
+        </button>
+    </div>
+
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th style="width: 150px;">CPF</th>
+                <th style="width: 150px;">Nome</th>
+                <th style="width: 70px;">Data de Nascimento</th>
+                <th style="width: 80px;">Sexo</th>
+                <th style="width: 100px;">Estado Civil</th>
+                <th style="width: 100px;">CEP</th>
+                <th style="width: 150px;">Logradouro</th>
+                <th style="width: 50px;">Número</th>
+                <th style="width: 100px;">Complemento</th>
+                <th style="width: 80px;">Bairro</th>
+                <th style="width: 100px;">Cidade</th>
+                <th style="width: 50px;">UF</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cliente in Model)
+            {
+                <tr data-id="@cliente.Id">
+                    <td>@cliente.CPF</td>
+                    <td>@cliente.Nome</td>
+                    <td>@cliente.DataNascimento.ToString("dd/MM/yyyy")</td>
+                    <td>@cliente.Sexo</td>
+                    <td>@cliente.EstadoCivil</td>
+                    <td>@cliente.endereco.CEP</td>
+                    <td>@cliente.endereco.Logradouro</td>
+                    <td>@cliente.endereco.Numero</td>
+                    <td>@cliente.endereco.Complemento</td>
+                    <td>@cliente.endereco.Bairro</td>
+                    <td>@cliente.endereco.Cidade</td>
+                    <td>@cliente.endereco.UF</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center">
+            @for (int i = 1; i <= ViewBag.TotalPages; i++)
+            {
+                <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                    <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var novoCliente = document.getElementById("novoCliente");
+
+        if (novoCliente) {
+            novoCliente.addEventListener("click", function () {
+                window.location.href = '/Home/Create';
+            });
+        }
+
+        var tableRows = document.querySelectorAll("table tbody tr");
+        tableRows.forEach(function (row) {
+            row.addEventListener("click", function () {
+                var clientId = row.getAttribute("data-id");
+                window.location.href = "/Clientes/Create?idCliente=" + clientId;
+            });
+        });
+    });
+</script>
+
+
+

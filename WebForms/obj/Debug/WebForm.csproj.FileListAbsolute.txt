@@ -1,0 +1,46 @@
+C:\Projetos\GTISolution\TesteCandidato\WebForms\bin\WebForm.dll.config
+C:\Projetos\GTISolution\TesteCandidato\WebForms\bin\WebForm.dll
+C:\Projetos\GTISolution\TesteCandidato\WebForms\bin\WebForm.pdb
+C:\Projetos\GTISolution\TesteCandidato\WebForms\obj\Debug\WebForm.csprojAssemblyReference.cache
+C:\Projetos\GTISolution\TesteCandidato\WebForms\obj\Debug\WebForm.csproj.CoreCompileInputs.cache
+C:\Projetos\GTISolution\TesteCandidato\WebForms\obj\Debug\WebForm.dll
+C:\Projetos\GTISolution\TesteCandidato\WebForms\obj\Debug\WebForm.pdb
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebForms\bin\WebForm.dll.config
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebForms\bin\WebForm.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebForms\bin\WebForm.pdb
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebForms\obj\Debug\WebForm.csprojAssemblyReference.cache
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebForms\obj\Debug\WebForm.csproj.CoreCompileInputs.cache
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebForms\obj\Debug\WebForm.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebForms\obj\Debug\WebForm.pdb
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\WebForm.dll.config
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\WebForm.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\WebForm.pdb
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\FromHeaderAttribute.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\Newtonsoft.Json.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Data.SqlClient.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Net.Http.Formatting.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Helpers.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Http.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Http.WebHost.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Mvc.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Razor.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.WebPages.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.WebPages.Razor.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\Newtonsoft.Json.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Data.SqlClient.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Net.Http.Formatting.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Helpers.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Http.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Http.WebHost.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Mvc.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.Razor.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.WebPages.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\bin\System.Web.WebPages.Razor.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\obj\Debug\WebForm.csproj.AssemblyReference.cache
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\obj\Debug\WebForm.csproj.CoreCompileInputs.cache
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\obj\Debug\WebForm.csproj.CopyComplete
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\obj\Debug\WebForm.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebForms\obj\Debug\WebForm.pdb

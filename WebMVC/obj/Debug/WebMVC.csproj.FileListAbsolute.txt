@@ -1,0 +1,188 @@
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\WebMVC.dll.config
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\WebMVC.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\WebMVC.pdb
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\csc.exe
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\csc.exe.config
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\csc.rsp
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\csi.exe
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\csi.rsp
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\System.AppContext.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\vbc.exe
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\vbc.exe.config
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\vbc.rsp
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Helpers.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Mvc.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Razor.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Webpages.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Webpages.Razor.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Razor.xml
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Webpages.xml
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Webpages.Razor.xml
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Helpers.xml
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\System.Web.Mvc.xml
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\obj\Debug\WebMVC.csprojAssemblyReference.cache
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\obj\Debug\WebMVC.csproj.CoreCompileInputs.cache
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\obj\Debug\WebMVC.csproj.CopyComplete
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\obj\Debug\WebMVC.dll
+C:\Projetos\GTISolution\TesteCandidato\WebMVC\obj\Debug\WebMVC.pdb
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\WebMVC.dll.config
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\WebMVC.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\WebMVC.pdb
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\csc.exe
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\csc.exe.config
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\csc.rsp
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\csi.exe
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\csi.rsp
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\System.AppContext.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\vbc.exe
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\vbc.exe.config
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\vbc.rsp
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\VBCSCompiler.exe
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Helpers.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Mvc.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Razor.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Webpages.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Webpages.Razor.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Razor.xml
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Webpages.xml
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Webpages.Razor.xml
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Helpers.xml
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\System.Web.Mvc.xml
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\obj\Debug\WebMVC.csprojAssemblyReference.cache
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\obj\Debug\WebMVC.csproj.CoreCompileInputs.cache
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\obj\Debug\WebMVC.csproj.CopyComplete
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\obj\Debug\WebMVC.dll
+D:\Documentos_Projetos\GTISolution\Testes Candidatos\ModeloProjeto\WebMVC\obj\Debug\WebMVC.pdb
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\WebMVC.dll.config
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\WebMVC.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\WebMVC.pdb
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\csc.exe
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\csc.exe.config
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\csc.rsp
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\csi.exe
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\csi.exe.config
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\csi.rsp
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\System.Buffers.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\System.Memory.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\vbc.exe
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\vbc.exe.config
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\vbc.rsp
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Newtonsoft.Json.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Buffers.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Memory.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Numerics.Vectors.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Text.Encodings.Web.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Text.Json.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.ValueTuple.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.Helpers.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.Mvc.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.Razor.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.WebPages.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Unity.Abstractions.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Unity.Container.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Unity.Mvc.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\WebActivatorEx.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Newtonsoft.Json.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Buffers.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Memory.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Numerics.Vectors.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Text.Encodings.Web.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Text.Json.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.ValueTuple.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.Helpers.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.Mvc.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.Razor.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.WebPages.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Unity.Abstractions.pdb
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Unity.Container.pdb
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Unity.Mvc.pdb
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\bin\Unity.Mvc.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\obj\Debug\WebMVC.csproj.AssemblyReference.cache
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\obj\Debug\WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\obj\Debug\WebMVC.csproj.CopyComplete
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\obj\Debug\WebMVC.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WebMVC\obj\Debug\WebMVC.pdb

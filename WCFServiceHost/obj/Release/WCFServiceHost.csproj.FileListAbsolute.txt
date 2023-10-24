@@ -1,0 +1,12 @@
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\bin\WCFServiceHost.dll.config
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\bin\WCFServiceHost.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\bin\WCFServiceHost.pdb
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\bin\EntityFramework.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\bin\EntityFramework.SqlServer.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\bin\EntityFramework.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\bin\EntityFramework.SqlServer.xml
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\obj\Release\WCFServiceHost.csproj.AssemblyReference.cache
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\obj\Release\WCFServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\obj\Release\WCFServiceHost.csproj.CopyComplete
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\obj\Release\WCFServiceHost.dll
+C:\Users\thayr\OneDrive\Documentos\repositorios\TesetGTI\Projeto\WCFServiceHost\obj\Release\WCFServiceHost.pdb
